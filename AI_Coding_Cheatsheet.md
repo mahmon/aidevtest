@@ -1,12 +1,12 @@
 === AI CODING CHEAT SHEET ===
 
 1. SESSION STARTER
-Project: [name]
-Goal: [1–2 sentences]
-Tech: [stack]
-Step: [exact task]
-Decisions: [key choices]
-Next: [small feature request]
+Project: AiDevtest
+Goal: Create a basic but deployable notes app for mobile and web
+Tech: Flutter + Firebase
+Step: Set up user login, 
+Decisions: [e.g. Using Theme.of(context).textTheme for text styling] 
+Next: allow email password plus google and apple signin options
 
 2. PROMPT RULES
 - Be specific (what + constraints)

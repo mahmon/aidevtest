@@ -179,6 +179,5 @@ Send:
 **Goal:** [1–2 sentence summary]  
 **Tech stack:** [e.g. Flutter + Riverpod + Firebase Auth]  
 **Current step:** [Exact step/task we’re on]  
-**Key decisions:** [e.g. Using Theme.of(context).textTheme for text styling]  
-
+**Key decisions:** [e.g. Using Theme.of(context).textTheme for text styling] 
 **Next request:** [Describe the next feature/code you want, keeping scope small]
